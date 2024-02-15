@@ -1,0 +1,9 @@
+{
+    "main":{
+        "signup": "Sign-up here!",
+        "name": "Name",
+        "password":"Password",
+        "re-enter-password":"Re-enter password",
+        "submit": "Submit"
+    }
+}
